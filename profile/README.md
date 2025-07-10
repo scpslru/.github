@@ -27,11 +27,12 @@
   <a href="https://discord.gg/Zg6n3uyQXd">
     <img src="https://cdn.discordapp.com/icons/1294720662799126640/18c04fb3966bf6ca67e96878633368ad.webp?size=80&quality=lossless" alt="Heart / Russian SCP:SL Server">
   </a>
-  <a href="https://discord.gg/aydKWNcPNT">
-    <img src="https://cdn.discordapp.com/icons/1325230156368842843/a1bed3abc483a68eed96dcf3bc2992e5.webp?size=80&quality=lossless" alt="Hazbin">
+  <a href="https://discord.gg/HcvS5hWaha">
+    <img src="https://cdn.discordapp.com/icons/1325230156368842843/a1bed3abc483a68eed96dcf3bc2992e5.webp?size=80&quality=lossless" alt="Vortex (ава Хазбин)">
   </a>
 </div>
 
 <div align="center">
   <h1>💻 <-> Разработчики <-> 💻</h1>
+  <p>Fydne</p>
 </div>
